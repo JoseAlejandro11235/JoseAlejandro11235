@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoseAlejandro11235
-- 👀 I’m interested in Software development, web development, security and AI.
+- 👀 I’m interested in Software development, web development, data science, security and AI.
 - 🌱 I’m currently learning web development, python and Java.
 - 💞️ I’m looking to collaborate on lots of projects
 - 📫 How to reach me ...you can send me a message 
