@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoseAlejandro11235
 - 👀 I’m interested in Software development, web development, data science, cybersecurity and AI.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to colaborate with many projects.
+- 💞️ I want to collaborate with many projects.
 - 📫 How to reach me ...you can send me a message 
 
 <!---
